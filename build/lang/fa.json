@@ -1119,5 +1119,7 @@
 	"mm.course.activitynotyetviewableremoteaddon": "شما این قسمت را باید در سامانه تحت وب ببینید",
 	"mm.course.askadmintosupport": "روی لینک زیر کلیک کنید تا به صفحه وب بروید.",
 	"mma.files.myprivatefilesdesc": "فایل های که فقط شما دسترسی دارید.",
-	"mma.files.sitefilesdesc": "سایر فایل های موجود در سایت."
+	"mma.files.sitefilesdesc": "سایر فایل های موجود در سایت.",
+	"mm.login.searchby": "جستجو با:"
+
 }
