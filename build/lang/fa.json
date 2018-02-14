@@ -1102,32 +1102,22 @@
     "mma.participants.noparticipants": "هیچ شرکت‌کننده‌ای پیدا نشد.",
     "mma.participants.participants": "شرکت کنندگان",
 	"mm.login.loginbutton": "ورود",
-	 "mm.courses.totalcoursesearchresults": "تعداد دروس: {{$a}}",
-	     "mm.courses.paypalaccepted": "درس دارای هزینه ثبت نام می باشد.",
-		     "mm.courses.sendpaymentbutton": "پرداخت هزینه",
+	"mm.courses.totalcoursesearchresults": "تعداد دروس: {{$a}}",
+	"mm.courses.paypalaccepted": "درس دارای هزینه ثبت نام می باشد.",
+	"mm.courses.sendpaymentbutton": "پرداخت هزینه",
     "mm.courses.notenrollable": "شما نمی توانید خودتان را در این درس ثبت نام کنید",
-   "mma.mod_quiz.confirmstart": "زمان شرکت در آزمون {{$a}} دقیقه می باشد. که از زمانی که شما آزمون را شروع کنید محاسبه می گردد، آیا از شروع مطمئن هستید؟",
+    "mma.mod_quiz.confirmstart": "زمان شرکت در آزمون {{$a}} دقیقه می باشد. که از زمانی که شما آزمون را شروع کنید محاسبه می گردد، آیا از شروع مطمئن هستید؟",
     "mma.mod_quiz.confirmstartheader": "زمان آزمون",
-	    "mm.core.emptysplit": "صفحه در حال بارگیری است و یا خالی می باشد.",
+	"mm.core.emptysplit": "صفحه در حال بارگیری است و یا خالی می باشد.",
     "mm.course.nocontentavailable": "این محتوی در حال حاضر در دسترس نمی باشد.",
     "mm.course.nocontentavailable": "این محتوی در حال حاضر در دسترس نمی باشد.",
     "mma.mod_resource.openthefile": "بازگشایی فایل",
-	    "mma.mod_resource.errorwhileloadingthecontent": "خطای بازگشایی فایل.",
-		    "mma.mod_url.accessurl": "دسترسی به آدرس فایل",
-			    "mma.mod_url.pointingtourl": "این محتوی به آدرس اینترنتی زیر متصل شده است.",
-				    "mm.core.uhoh": "توجه: ",
-					    "mm.course.activitynotyetviewableremoteaddon": "شما این قسمت را باید در سامانه تحت وب ببینید",
-						    "mm.course.askadmintosupport": "روی لینک زیر کلیک کنید تا به صفحه وب بروید.",
-							    "mma.files.myprivatefilesdesc": "فایل های که فقط شما دسترسی دارید.",
-								    "mma.files.sitefilesdesc": "سایر فایل های موجود در سایت.",
-
-
-
-
-
-
-
-
-
-
+	"mma.mod_resource.errorwhileloadingthecontent": "خطای بازگشایی فایل.",
+	"mma.mod_url.accessurl": "دسترسی به آدرس فایل",
+	"mma.mod_url.pointingtourl": "این محتوی به آدرس اینترنتی زیر متصل شده است.",
+	"mm.core.uhoh": "توجه: ",
+	"mm.course.activitynotyetviewableremoteaddon": "شما این قسمت را باید در سامانه تحت وب ببینید",
+	"mm.course.askadmintosupport": "روی لینک زیر کلیک کنید تا به صفحه وب بروید.",
+	"mma.files.myprivatefilesdesc": "فایل های که فقط شما دسترسی دارید.",
+	"mma.files.sitefilesdesc": "سایر فایل های موجود در سایت."
 }
