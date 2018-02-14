@@ -298,7 +298,7 @@
     "mm.core.image": "عکس ({{$a.MIMETYPE2}})",
     "mm.core.imageviewer": "نمایشگر تصویر",
     "mm.core.info": "توضیحات",
-    "mm.core.labelsep": ":&nbsp;",
+    "mm.core.labelsep": ": ",
     "mm.core.lastmodified": "آخرین تغییر",
     "mm.core.listsep": ",",
     "mm.core.loading": "در حال بارگیری",
@@ -638,7 +638,7 @@
     "mma.files.privatefiles": "فایل‌های شخصی",
     "mma.files.sitefiles": "فایل‌های سایت",
     "mma.files.uploadfiles": "ارسال فایل‌های بازخورد",
-    "mma.frontpage.sitehome": "صفحهٔ اصلی سایت",
+    "mma.frontpage.sitehome": "صفحه اصلی سامانه",
     "mma.frontpage.sitenews": "اعلانات سایت",
     "mma.grades.viewgrades": "مشاهدهٔ نمره‌ها",
     "mma.messageoutput_airnotifier.processorsettingsdesc": "پیکربندی دستگاه‌ها",
@@ -1100,5 +1100,34 @@
     "mma.notifications.notifications": "تذکرات",
     "mma.notifications.therearentnotificationsyet": "هیچ هشداری وجود ندارد",
     "mma.participants.noparticipants": "هیچ شرکت‌کننده‌ای پیدا نشد.",
-    "mma.participants.participants": "شرکت کنندگان"
+    "mma.participants.participants": "شرکت کنندگان",
+	"mm.login.loginbutton": "ورود",
+	 "mm.courses.totalcoursesearchresults": "تعداد دروس: {{$a}}",
+	     "mm.courses.paypalaccepted": "درس دارای هزینه ثبت نام می باشد.",
+		     "mm.courses.sendpaymentbutton": "پرداخت هزینه",
+    "mm.courses.notenrollable": "شما نمی توانید خودتان را در این درس ثبت نام کنید",
+   "mma.mod_quiz.confirmstart": "زمان شرکت در آزمون {{$a}} دقیقه می باشد. که از زمانی که شما آزمون را شروع کنید محاسبه می گردد، آیا از شروع مطمئن هستید؟",
+    "mma.mod_quiz.confirmstartheader": "زمان آزمون",
+	    "mm.core.emptysplit": "صفحه در حال بارگیری است و یا خالی می باشد.",
+    "mm.course.nocontentavailable": "این محتوی در حال حاضر در دسترس نمی باشد.",
+    "mm.course.nocontentavailable": "این محتوی در حال حاضر در دسترس نمی باشد.",
+    "mma.mod_resource.openthefile": "بازگشایی فایل",
+	    "mma.mod_resource.errorwhileloadingthecontent": "خطای بازگشایی فایل.",
+		    "mma.mod_url.accessurl": "دسترسی به آدرس فایل",
+			    "mma.mod_url.pointingtourl": "این محتوی به آدرس اینترنتی زیر متصل شده است.",
+				    "mm.core.uhoh": "توجه: ",
+					    "mm.course.activitynotyetviewableremoteaddon": "شما این قسمت را باید در سامانه تحت وب ببینید",
+						    "mm.course.askadmintosupport": "روی لینک زیر کلیک کنید تا به صفحه وب بروید.",
+							    "mma.files.myprivatefilesdesc": "فایل های که فقط شما دسترسی دارید.",
+								    "mma.files.sitefilesdesc": "سایر فایل های موجود در سایت.",
+
+
+
+
+
+
+
+
+
+
 }
