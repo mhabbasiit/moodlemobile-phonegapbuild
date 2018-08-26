@@ -71092,7 +71092,7 @@ angular.module('mm.addons.mod_workshop')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "ir.pishtazlms",
+    "app_id" : "ir.abbasi",
     "appname": "Mathhome",
     "desktopappname": "Mathhome",
     "versioncode" : "2021",
