@@ -71092,7 +71092,7 @@ angular.module('mm.addons.mod_workshop')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-       "app_id" : "ir.pishtazlms",
+    "app_id" : "ir.pishtazlms",
     "appname": "Mathhome",
     "desktopappname": "Mathhome",
     "versioncode" : "2021",
@@ -71105,7 +71105,7 @@ angular.module('mm.core')
     "gcmpn": "694767596569",
 	"rtlLanguages": ["fa"],
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://pishtazlms.ir",
+    "siteurl": "http://newfct.pafcodemo.com:8080/fct",
     "multisitesdisplay": "select",
     "demo_sites": [],
     "skipssoconfirmation": "true",
