@@ -11,11 +11,11 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://pishtazlms.ir",
-    "presets" : {"url": "http://pishtazlms.ir"},
+    "siteurl": "http://newfct.pafcodemo.com:8080/fct",
+    "presets" : {"url": "http://newfct.pafcodemo.com:8080/fct"},
     "multisitesdisplay": "select",
     "demo_sites": [],
     "skipssoconfirmation": "true",
     "forcedefaultlanguage": "true",
-    "privacypolicy": "https://pishtazlms.ir"
+    "privacypolicy": "http://newfct.pafcodemo.com:8080/fct"
 }
